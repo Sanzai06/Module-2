@@ -25,8 +25,7 @@ To create a Python program using a lambda function to calculate the value of the
 ### PROGRAM
 
 ```
-# reg: 212223060200
-# name: Pradeep m
+
 x=int(input())
 y=int(input())
 z=int(input())
